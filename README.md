@@ -1,5 +1,4 @@
 # ZBle
-An android library for bluetooth low energy.  
 
 [![](https://jitpack.io/v/yuyuyu123/ZBle.svg)](https://jitpack.io/#yuyuyu123/ZBle)
 # Dependency
